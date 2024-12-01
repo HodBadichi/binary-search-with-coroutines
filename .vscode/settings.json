@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "coroutine": "cpp",
+        "chrono": "cpp",
+        "exception": "cpp",
+        "cassert": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    }
+}
