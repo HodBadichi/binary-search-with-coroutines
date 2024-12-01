@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the use of C++ coroutines to implement a parallel binary search algorithm. The goal is to achieve higher memory-level parallelism by interleaving the execution of multiple binary search instances.
+This code snippet explores the use of C++ coroutines to implement a parallel binary search algorithm. The goal is to achieve higher memory-level parallelism by interleaving the execution of multiple binary search instances.
 
 ## Building and Running
 
